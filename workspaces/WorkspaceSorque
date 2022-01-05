@@ -1,0 +1,4 @@
+cd WorkspaceSorque python -m SimpleHTTPServer # Python 2
+index.html
+styles.css
+script.js
